@@ -27,7 +27,6 @@ Run Weehawk on **your own** server:
 curl -sSL https://weehawk.io/install.sh | bash
 ```
 
-**Don't want to install it on your server?** **[Try Weehawk Cloud](https://app.weehawk.io)**.
 
 ## Contributing
 
